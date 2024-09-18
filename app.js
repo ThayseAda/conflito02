@@ -1,4 +1,4 @@
-const { greet } = require('./utils');
+const { greet } = require("./utils");
 
-const name = 'Alice';
+const name = "Alice";
 console.log(greet(name));
